@@ -1,0 +1,18 @@
+1) What is the first step in the software development lifecycle?
+(a) System Design
+(b) Coding
+(c) System Testing
+(d) Preliminary Investigation and Analysis
+
+2) What does the study of an existing system refer to?
+(a) Details of DFD
+(b) System Analysis
+(c) Feasibility Study
+(d) System Planning
+
+3) Which of the following prototypes does not associated with Prototyping Model?
+
+(a) Diagonal Prototype
+(b) Vertical Prototype
+(c) Horizontal Prototype
+(d) Domain Prototype
